@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_X00TD.mk
+    $(LOCAL_DIR)/weeb_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    corvus_X00TD-user \
-    corvus_X00TD-userdebug \
-    corvus_X00TD-eng
+    weeb_X00TD-user \
+    weeb_X00TD-userdebug \
+    weeb_X00TD-eng
